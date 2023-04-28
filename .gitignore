@@ -1,0 +1,34 @@
+#mac os
+*.DS_Store
+
+#eclipse files
+*.project
+*.prefs
+*.classpath
+*.settings
+
+#idea files
+.idea
+*.iml
+
+# Java class files
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# generated files  
+bin/  
+gen/
+target
+build
+
+#git
+*.stackdump
+
+#log
+*.log
